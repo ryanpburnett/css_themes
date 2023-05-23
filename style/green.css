@@ -8,6 +8,7 @@ body {
     background-attachment: fixed;
     /* font */
     color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
