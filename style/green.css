@@ -1,0 +1,27 @@
+body {
+    /* gradient */
+    background: rgb(197,255,175);
+    background: linear-gradient(90deg, rgba(197,255,175,1) 0%, rgb(74, 186, 76) 100%);
+    /* fixes background height */
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* font */
+    color: black;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
