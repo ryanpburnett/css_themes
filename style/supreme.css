@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(237, 28, 36);
+    font-family: 'Jost', sans-serif;
+    font-style: italic;
+    color: white;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
