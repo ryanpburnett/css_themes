@@ -1,6 +1,5 @@
 body {
     /* gradient */
-    background: rgb(54,50,126);
     background: linear-gradient(241deg, rgba(54,50,126,1) 0%, rgba(33,33,172,1) 63%, rgba(21,66,189,1) 100%);
     /* fixes background height */
     height: 100%;
