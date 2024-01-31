@@ -3,7 +3,13 @@ body {
     font-family: 'Jost', sans-serif;
     font-style: italic;
     color: white;
-    /* margin */
+}
+
+nav {
+
+}
+
+h1, h2, h3, p {
     margin: 2rem;
 }
 
