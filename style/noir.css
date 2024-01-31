@@ -2,7 +2,9 @@ body {
     background-color: black;
     font-family: 'Courier New', Courier, monospace;
     color: lightgray;
-    /* margin */
+}
+
+h1, h2, h3, p {
     margin: 2rem;
 }
 
