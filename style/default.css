@@ -3,6 +3,14 @@ body {
     background-color: white;
 }
 
+nav {
+    background-color: rgb(42, 47, 51);
+}
+
+nav a {
+    color: bisque;
+}
+
 h1, h2, h3, p {
     margin: 2rem;
 }
