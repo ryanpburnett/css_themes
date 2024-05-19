@@ -1,1 +1,24 @@
 /* placeholder */
+body {
+    background-color: white;
+}
+
+h1, h2, h3, p {
+    margin: 2rem;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
