@@ -4,7 +4,7 @@ body {
 }
 
 nav {
-    background-color: rgb(0, 182, 185);
+    background-color: rgb(93, 94, 155);
 }
 
 nav a {
@@ -38,6 +38,8 @@ p {
 /* rgb(1, 30, 156)          blue */
 /* rgb(0, 4, 56)            dark blue*/    
 /* rgb(0, 3, 51)            darker blue */
+
+/* rgb(93, 94, 155)         blue gray */
 
 /* rgb(180, 75, 0)          burnt orange */
 /* rgb(108, 116, 224)       lilac */
