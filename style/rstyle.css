@@ -1,10 +1,12 @@
 body {
-    background-color: rgb(0, 3, 51);
-    color: rgb(205, 216, 255);
+    background: rgb(0,3,50);
+    background: linear-gradient(90deg, rgba(0,3,50,1) 0%, rgba(0,7,100,1) 85%); 
+    color: rgb(205, 215, 255);
 }
 
 nav {
-    background-color: rgb(93, 94, 155);
+    background: rgb(95,95,155);
+    background: linear-gradient(90deg, rgba(95,95,155,1) 0%, rgba(115,115,155,1) 85%);
 }
 
 nav a {
@@ -31,18 +33,32 @@ p {
     font-size: 20px;
 }
 
-/* colors */
+/* 
 
-/* rgb(205, 216, 255)       ligher blue */
-/* rgb(195, 209, 255)       light blue */
-/* rgb(1, 30, 156)          blue */
-/* rgb(0, 4, 56)            dark blue*/    
-/* rgb(0, 3, 51)            darker blue */
+colors 
 
-/* rgb(93, 94, 155)         blue gray */
+ rgb(205, 215, 255)       ligher blue 
+ rgb(195, 209, 255)       light blue 
+ rgb(1, 30, 156)          blue 
+ rgb(0, 4, 56)            dark blue    
+ rgb(0, 3, 51)            darker blue 
 
-/* rgb(180, 75, 0)          burnt orange */
-/* rgb(108, 116, 224)       lilac */
+ rgb(93, 94, 155)         blue gray 
 
-/* rgb(0,206,209)           turquoise */
-/* rgb(0, 182, 185)         darker turquoise */
+ rgb(180, 75, 0)          burnt orange 
+ rgb(108, 116, 224)       lilac 
+
+ rgb(0,206,209)           turquoise 
+ rgb(0, 182, 185)         darker turquoise 
+
+gradients
+
+background: rgb(0,3,50);
+background: linear-gradient(90deg, rgba(0,3,50,1) 0%, rgba(0,7,100,1) 85%);             dark blue gradient
+
+background: rgb(95,95,155);
+background: linear-gradient(90deg, rgba(95,95,155,1) 0%, rgba(115,115,155,1) 85%);      blue gray gradient
+
+
+
+*/
