@@ -1,12 +1,16 @@
 body {
     background: rgb(0,3,50);
-    background: linear-gradient(90deg, rgba(0,3,50,1) 0%, rgba(0,7,100,1) 85%); 
+    background: linear-gradient(115deg, rgba(0,3,50,1) 0%, rgba(0,7,100,1)95%); 
     color: rgb(205, 215, 255);
+    /* fixes background height */
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 nav {
-    background: rgb(95,95,155);
-    background: linear-gradient(90deg, rgba(95,95,155,1) 0%, rgba(115,115,155,1) 85%);
+    background: rgb(0, 182, 185)  ;
 }
 
 nav a {
